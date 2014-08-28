@@ -1,0 +1,9 @@
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\bin\Release\My_Calk.exe
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\bin\Release\My_Calk.pdb
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\My_Calk.Form1.resources
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\My_Calk.Properties.Resources.resources
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\My_Calk.exe
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Release\My_Calk.pdb

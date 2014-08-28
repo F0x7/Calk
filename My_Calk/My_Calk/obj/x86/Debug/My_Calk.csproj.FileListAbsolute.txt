@@ -1,0 +1,17 @@
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\bin\Debug\My_Calk.exe
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\bin\Debug\My_Calk.pdb
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\My_Calk.Form1.resources
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\My_Calk.Properties.Resources.resources
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\My_Calk.exe
+C:\Users\Fox\AppData\Local\Temporary Projects\My_Calk\obj\x86\Debug\My_Calk.pdb
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.exe
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.pdb
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\bin\Debug\My_Calk.exe
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\bin\Debug\My_Calk.pdb
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.Form1.resources
+C:\Users\Fox\Documents\Visual Studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.Properties.Resources.resources
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.csprojResolveAssemblyReference.cache
+C:\Users\Fox\documents\visual studio 2010\Projects\My_Calk\My_Calk\obj\x86\Debug\My_Calk.csproj.GenerateResource.Cache
